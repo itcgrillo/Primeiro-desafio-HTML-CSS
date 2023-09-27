@@ -12,5 +12,5 @@
 <br>
 <br>
 <h3>Desktop e Smartphone.</h3>
-<img src="" />
+<img src="https://github.com/itcgrillo/Wide-Coverade-Location/blob/main/assets/Captura%20de%20tela%202023-09-27%20154829.png?raw=true" />
 <img src="" />

@@ -1,4 +1,4 @@
-<h1>Wide Coverade LocationEasy Shopping</h1>
+<h1>Wide Coverade Location</h1>
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClube</a>
